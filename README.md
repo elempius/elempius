@@ -16,7 +16,6 @@ Age: Unknown
 
 Languages: C#, JavaScript, Python, Lua, HTML, CSS
 Learning: TypeScript, NodeJS, React
-Certification: CCNA, CCNP Security
 
 Workplace: IBM Bulgaria
 Location: Sofia, BG
